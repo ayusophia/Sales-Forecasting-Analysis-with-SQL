@@ -4,7 +4,7 @@ This project demonstrates the use of SQL to perform sales forecasting analysis b
 <B>1. Project Overview </B>:
 In this project, I analyze sales forecast data to generate insights that can help in strategic decision-making. The analysis focuses on creating forecasts, assessing potential risks, and comparing forecasted data with actual sales to measure accuracy.
 
-<>2. Dataset </B>:
+<b>2. Dataset </B>:
 The dataset consists of 100 records with the following fields:
 
 <P>Salesperson_ID: Unique identifier for each salesperson.</p>
