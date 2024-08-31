@@ -1,0 +1,101 @@
+Salesperson_ID,Forecast_Category,Region,Product,Historical_Sales,Forecast_Amount,Forecast_Date
+1023,Uncommitted,Europe,Xbox,49686.4,41719.5,6/7/2025
+1036,Uncommitted,Europe,SQL Server,8683.38,14706.08,2/6/2025
+1045,Upside,Asia-Pacific,Azure,25668.57,47045.38,1/20/2025
+1007,Committed,Asia-Pacific,LinkedIn,39429.19,10379.77,8/27/2025
+1011,Upside,North America,Xbox,14583.06,47099.76,2/2/2025
+1014,Upside,North America,SQL Server,16460.68,18383.1,4/5/2025
+1007,Committed at Risk,Asia-Pacific,Visual Studio,12591.19,34447.44,6/1/2025
+1011,Committed,North America,OneDrive,43843.31,47176.19,11/10/2024
+1022,Uncommitted,Asia-Pacific,Windows 10,29224.59,27733.04,3/30/2025
+1033,Upside,Asia-Pacific,Microsoft 365,19703.9,24612.12,2/14/2025
+1023,Upside,Asia-Pacific,SharePoint,47603.97,17560.81,5/1/2025
+1017,Committed,North America,Outlook,25116.26,33486.28,3/3/2025
+1010,Uncommitted,Europe,OneDrive,35301.61,58458.04,1/28/2025
+1019,Committed,Asia-Pacific,Microsoft 365,25140.62,34088.21,10/31/2024
+1040,Committed,Europe,Surface Laptop,10599.53,23569.16,12/21/2024
+1024,Committed,Latin America,LinkedIn,5844.71,31572.4,4/4/2025
+1008,Upside,Asia-Pacific,GitHub,42464.85,10301.91,11/9/2024
+1037,Uncommitted,Latin America,Surface Pro,21120.15,49348.32,9/13/2024
+1013,Committed,Europe,Surface Laptop,5143.65,23842,9/2/2024
+1016,Upside,Latin America,OneDrive,9771.07,21219.88,1/31/2025
+1045,Committed at Risk,Asia-Pacific,LinkedIn,20264.99,49430.75,6/15/2025
+1001,Upside,Latin America,Teams,6997.23,42423.39,10/20/2024
+1016,Upside,North America,OneDrive,31415.19,13163.23,6/24/2025
+1001,Uncommitted,Europe,Teams,15954.96,14365.75,8/30/2025
+1025,Committed,Latin America,Windows 11,20465.32,41202.36,5/15/2025
+1022,Committed at Risk,Asia-Pacific,Visual Studio,35404.3,25172.98,5/10/2025
+1041,Committed at Risk,Asia-Pacific,Exchange,14162.19,18449.35,12/15/2024
+1006,Upside,Latin America,Edge,33716.41,11875.89,6/18/2025
+1011,Uncommitted,Asia-Pacific,Teams,38846.66,48988.1,4/7/2025
+1020,Committed,Asia-Pacific,Xbox,31372.6,42993.41,6/2/2025
+1029,Upside,North America,Exchange,38623.1,51999.48,2/21/2025
+1033,Uncommitted,North America,GitHub,8439.38,53238.95,3/15/2025
+1019,Committed at Risk,North America,LinkedIn,11142.38,57577.83,7/13/2025
+1044,Committed,North America,Edge,49932.89,22350.96,12/20/2024
+1035,Uncommitted,North America,Power BI,31772.63,40465.3,8/17/2025
+1019,Committed at Risk,Asia-Pacific,Teams,27453.96,43278.87,4/26/2025
+1023,Committed at Risk,Europe,Teams,42344.14,52808,8/8/2025
+1015,Committed at Risk,Latin America,Windows 11,9235.09,41860.13,7/6/2025
+1006,Upside,Asia-Pacific,Windows 11,42932.71,39195.21,10/12/2024
+1015,Uncommitted,Europe,SharePoint,38385.22,38924.54,7/14/2025
+1047,Committed,Asia-Pacific,Microsoft 365,38772.72,47785.41,2/17/2025
+1035,Uncommitted,North America,SQL Server,25176.38,51269.83,3/26/2025
+1040,Committed,Europe,Surface Pro,27366.7,42969.41,3/20/2025
+1007,Committed,Asia-Pacific,Edge,47698.92,36857.07,7/24/2025
+1027,Committed at Risk,Latin America,Teams,29265.02,54687.89,11/27/2024
+1040,Committed at Risk,Latin America,Windows 10,47851.81,23255.83,2/15/2025
+1025,Upside,Latin America,Exchange,31437.7,48545.55,10/16/2024
+1039,Committed at Risk,Latin America,Surface Pro,28285.04,31257.87,9/29/2024
+1012,Uncommitted,Europe,Xbox,18648.26,57382.13,3/27/2025
+1005,Uncommitted,Asia-Pacific,SharePoint,28927.81,39110.94,10/20/2024
+1003,Uncommitted,Latin America,Microsoft 365,15588.95,23079.66,6/17/2025
+1046,Uncommitted,Latin America,SharePoint,12028.08,15839.65,6/26/2025
+1031,Uncommitted,North America,Edge,20748.23,52119.56,8/11/2025
+1026,Committed at Risk,Asia-Pacific,OneDrive,7230.48,36692.06,4/27/2025
+1015,Upside,Asia-Pacific,Windows 11,46396.53,23311.4,3/22/2025
+1048,Committed at Risk,Europe,Edge,42575.88,47145.48,12/30/2024
+1044,Committed at Risk,Europe,Exchange,27777.26,10842.04,4/13/2025
+1023,Committed at Risk,North America,Xbox,48272.68,13210.28,8/6/2025
+1046,Uncommitted,North America,Dynamics 365,34377.91,21568.93,6/29/2025
+1009,Committed,Latin America,SQL Server,33435.52,37690.12,11/20/2024
+1047,Upside,Asia-Pacific,Windows 10,29172.26,55717.42,3/25/2025
+1027,Committed,Asia-Pacific,Windows 10,31237.72,14901.51,7/22/2025
+1005,Upside,Europe,Visual Studio,12451.53,34790.82,1/6/2025
+1045,Committed at Risk,Asia-Pacific,Surface Laptop,49738.51,22596.62,3/13/2025
+1040,Upside,Latin America,Minecraft,23776.86,54216.54,1/17/2025
+1039,Committed,North America,Windows 11,41399.4,51921.27,3/18/2025
+1039,Upside,Asia-Pacific,Minecraft,38146.89,24441.16,12/21/2024
+1047,Committed at Risk,Asia-Pacific,Power BI,23972.51,31876.57,11/1/2024
+1004,Upside,Latin America,LinkedIn,32635.46,23714,5/31/2025
+1001,Uncommitted,Latin America,Surface Laptop,41534.37,20068.63,8/18/2025
+1042,Upside,Asia-Pacific,Surface Laptop,49901.17,24447.66,3/3/2025
+1037,Upside,Asia-Pacific,SharePoint,15127.73,27152.25,1/20/2025
+1039,Upside,Europe,Outlook,36125.21,44163.56,6/16/2025
+1031,Uncommitted,Asia-Pacific,Surface Laptop,36982.91,36582.5,5/26/2025
+1015,Uncommitted,Europe,SharePoint,37530.04,14608.5,1/29/2025
+1036,Committed,North America,Outlook,44997.28,33764.72,11/14/2024
+1022,Committed,Asia-Pacific,LinkedIn,45105.97,13165,3/27/2025
+1028,Committed,North America,Teams,31472.8,17365.09,7/12/2025
+1024,Committed at Risk,Latin America,Teams,36931.64,11170.56,6/5/2025
+1017,Upside,North America,Exchange,11256.52,27343.86,1/30/2025
+1033,Committed at Risk,Europe,Visual Studio,26708.51,31094.87,12/28/2024
+1008,Uncommitted,Latin America,Minecraft,37763.67,26763.16,2/10/2025
+1026,Committed at Risk,Europe,Outlook,24207,53824.06,10/8/2024
+1025,Uncommitted,Latin America,Outlook,24400.53,35844.91,1/25/2025
+1015,Uncommitted,Europe,LinkedIn,28867.18,12871.65,3/30/2025
+1011,Upside,North America,Edge,48729.9,35848.1,8/15/2025
+1025,Committed,Europe,SQL Server,30237.4,14982.82,8/6/2025
+1036,Upside,North America,SharePoint,11195.84,32154.72,10/24/2024
+1041,Upside,North America,Exchange,37345.32,41834.98,4/4/2025
+1017,Uncommitted,North America,Exchange,35598.83,53817.14,5/16/2025
+1006,Committed,Latin America,SharePoint,39426.08,39421.53,5/30/2025
+1049,Upside,Europe,Minecraft,8790.52,38058.19,6/11/2025
+1017,Uncommitted,Latin America,Surface Pro,41223.96,50641.15,12/13/2024
+1002,Committed at Risk,North America,SharePoint,45535.08,43914.82,11/26/2024
+1014,Committed,Europe,Surface Laptop,27734.71,26498.19,8/14/2025
+1011,Upside,Europe,SQL Server,31033.19,55658.56,10/16/2024
+1016,Committed at Risk,Europe,Edge,13379.91,54626.91,7/13/2025
+1031,Committed,North America,LinkedIn,5100.32,43043.8,12/4/2024
+1031,Uncommitted,Europe,Edge,9922.67,11868.3,3/22/2025
+1005,Upside,Asia-Pacific,Outlook,8458.52,28887.94,11/26/2024
