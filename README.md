@@ -16,3 +16,18 @@ The dataset consists of 100 records with the following fields:
 <p>Forecast_Amount: The forecasted sales amount.</p>
 <p>Forecast_Date: The date when the forecast was made.</p>
 
+<p>3. SQL Queries:
+The following SQL queries were used to analyze the dataset:
+
+Generate a Forecast for the Upcoming Quarter:</p>
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/61900995-ae6f-42a6-a0af-254b0c72a352">
+<p>Identify Potential Risks (Committed at Risk) : </p>
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/a8a9e68c-29e2-4510-b6d8-b49a3cd7b6e4">
+<p>Compare Forecasted vs. Actual Sales to Measure Accuracy:</p>
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/70ed40e7-07bc-4ce7-935b-14c35fe63dab">
+<p>Analyze Regional and Product-Level Forecasts:</p>
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/8a17aba6-6512-46ab-9c2a-114a74ce685e">
+
+
+
+
