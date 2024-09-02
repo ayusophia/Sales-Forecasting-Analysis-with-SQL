@@ -48,7 +48,7 @@ Key Opportunities:
 Asia-Pacific - Windows 11 (ID: 1015): Forecasted at 46396.53, indicating strong expected growth in this region for this product.
 Europe - Edge (ID: 1048): Forecasted at 42575.88, highlighting potential growth in Europe.
 North America - Xbox (ID: 1023): Forecasted at 48272.68, showing a high potential for growth in the North American market for this product.
-Summary of Insights:
+<p><b>Summary of Insights:</b></p>
 Forecast Accuracy: There are several instances where the forecasts significantly underestimate the actual sales, suggesting a need for improving forecasting models or gathering more accurate data.
 Risk Identification: Some "Committed at Risk" forecasts have large discrepancies between forecasted and historical sales, which may require targeted interventions or risk mitigation strategies.
 Growth Opportunities: Asia-Pacific, Europe, and North America show strong potential for products like Windows 11, Edge, and Xbox, which should be areas of focus for growth strategies.</p>
