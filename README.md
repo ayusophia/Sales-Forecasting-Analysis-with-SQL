@@ -30,13 +30,13 @@ Generate a Forecast for the Upcoming Quarter:</p>
 
 <p>Some analysis from the queries:
 
-1. Forecast Accuracy
+<b>1. Forecast Accuracy</b>
 Approach: Compare the forecasted sales amounts with the historical sales to assess accuracy.
 Key Observations:
 Europe - Surface Laptop (ID: 1013): Forecasted at 5143.65 but historical sales were 23842. The forecast significantly underestimated the sales, showing potential underconfidence in the forecast.
 North America - LinkedIn (ID: 1031): Forecasted at 5100.32 but actual sales were 43043.80. This also indicates an underestimation.
 Asia-Pacific - Microsoft 365 (ID: 1047): Forecasted at 38772.72, actual sales were 47785.41. This is relatively accurate, indicating good forecasting in this case.
-2. Risk Identification
+<b>2. Risk Identification
 Approach: Identify and highlight the forecasts categorized as "Committed at Risk" to understand potential problem areas.
 Key Risk Areas:
 Asia-Pacific - Visual Studio (ID: 1022): Forecasted at 35404.30, but actual sales were 25172.98. A large deviation, indicating a high risk that the committed forecast may not be met.
@@ -48,10 +48,10 @@ Key Opportunities:
 Asia-Pacific - Windows 11 (ID: 1015): Forecasted at 46396.53, indicating strong expected growth in this region for this product.
 Europe - Edge (ID: 1048): Forecasted at 42575.88, highlighting potential growth in Europe.
 North America - Xbox (ID: 1023): Forecasted at 48272.68, showing a high potential for growth in the North American market for this product.
-<p><b>Summary of Insights:</b></p>
-Forecast Accuracy: There are several instances where the forecasts significantly underestimate the actual sales, suggesting a need for improving forecasting models or gathering more accurate data.
-<p>Risk Identification:</p> Some "Committed at Risk" forecasts have large discrepancies between forecasted and historical sales, which may require targeted interventions or risk mitigation strategies.
-<p>Growth Opportunities:</p> Asia-Pacific, Europe, and North America show strong potential for products like Windows 11, Edge, and Xbox, which should be areas of focus for growth strategies.</p>
+<p><b>Summary of Insights:</b>
+Forecast Accuracy: There are several instances where the forecasts significantly underestimate the actual sales, suggesting a need for improving forecasting models or gathering more accurate data.</p>
+<p>Risk Identification: Some "Committed at Risk" forecasts have large discrepancies between forecasted and historical sales, which may require targeted interventions or risk mitigation strategies.</p>
+<p>Growth Opportunities: Asia-Pacific, Europe, and North America show strong potential for products like Windows 11, Edge, and Xbox, which should be areas of focus for growth strategies.</p>
 
 <p>Based on the analysis conducted in this project, several key insights have emerged regarding the sales pipeline and forecasting:
 
