@@ -16,8 +16,8 @@ The dataset consists of 100 records with the following fields:
 <p>Forecast_Amount: The forecasted sales amount.</p>
 <p>Forecast_Date: The date when the forecast was made.</p>
 
-<p>3. SQL Queries:
-The following SQL queries were used to analyze the dataset:
+<p><b>3. SQL Queries:
+The following SQL queries were used to analyze the dataset: </b>
 
 Generate a Forecast for the Upcoming Quarter:</p>
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/61900995-ae6f-42a6-a0af-254b0c72a352">
